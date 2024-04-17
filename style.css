@@ -98,3 +98,10 @@ P{
   }
 }
 
+@media screen and (max-width: 1080px){
+    #botoes{
+        width: 350px;
+    }
+}
+
+
